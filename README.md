@@ -41,3 +41,6 @@
 Арсен Студент 4 курса, специализация: Mobile Development.
 
 Стремлюсь к позиции Junior Android Developer.
+![1000034279](https://github.com/user-attachments/assets/63b1c01e-9720-4cad-9a8b-67d131ff7661)
+![1000034280](https://github.com/user-attachments/assets/9067d10c-4c2f-4cdc-bfde-52b10f371c60)
+![1000034281](https://github.com/user-attachments/assets/ebe61897-371b-4495-a2c6-dc596a7e6519)
